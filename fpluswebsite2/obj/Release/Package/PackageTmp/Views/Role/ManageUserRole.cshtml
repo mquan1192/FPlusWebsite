@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "ManageUserRole";
+}
+
+
+<h2>ユーザーのレベル管理</h2>
+
+
+<h2>ユーザーのレベル変更</h2>
+
+@using (Html.BeginForm("UpdateRole", "Role"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <p>
+        Username :@Html.DropDownList("UserID", (IEnumerable<SelectListItem>)ViewBag.Users, "選択 ...")
+        Role Name: @Html.DropDownList("RoleID", (IEnumerable<SelectListItem>)ViewBag.Roles, "洗濯 ...")
+
+
+    </p>
+
+    <input type="submit" value="Save" />
+}
+

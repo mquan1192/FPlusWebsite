@@ -1,0 +1,102 @@
+﻿@model IEnumerable<fpluswebsite2.Models.Cleaning>
+
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+
+    
+            <script type="text/javascript">
+            $(function () {
+                $('#datetimepicker1').datetimepicker();
+            });
+            </script>
+
+
+    @*@Html.ActionLink("View Reservation", "ViewReservation", new {  })*@
+</p>
+
+@using (Html.BeginForm("ViewReservation","Cleanings", FormMethod.Get))
+{
+    //the following are search options
+    <b> Search Option: </b>
+    @Html.TextBox("date1", null, new { @class = "datetimepicker", type = "date" }) 
+    @Html.TextBox("date2", null, new { @class = "datetimepicker", type = "date" })
+
+    <input type = "submit" name = "submit" value = "Search" />
+    }
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Hotel.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Staff.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Date)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TimeIn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TimeOut)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fee)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Memo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hotel.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Staff.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TimeIn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TimeOut)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fee)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Memo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
+<script>
+    $(document).ready(function () {
+        $('.datetimepicker').datetimepicker({
+            //format: 'MM/DD/YYYY HH:mm',
+
+            //sideBySide: true
+        });
+    });
+
+</script>

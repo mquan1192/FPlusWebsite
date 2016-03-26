@@ -1,0 +1,172 @@
+﻿@model fpluswebsite2.Models.Reservation
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Reservation</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.HotelId, "HotelId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("HotelId", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.HotelId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.GuestName, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.GuestName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.GuestName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.NumberOfGuest, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NumberOfGuest, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NumberOfGuest, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.GuestInfo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.GuestInfo, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.GuestInfo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group ">
+            @Html.LabelFor(model => model.Checkin, htmlAttributes: new { @class = "control-label col-md-2 " })
+            <div class="col-md-10 datetimepicker">
+                @Html.EditorFor(model => model.Checkin, new { htmlAttributes = new { @class = "form-control  cin", @id="cin" } })
+                @Html.ValidationMessageFor(model => model.Checkin, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TimeIn, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10 timepicker">
+                @Html.EditorFor(model => model.TimeIn, new { htmlAttributes = new { @class = "form-control " } })
+                @Html.ValidationMessageFor(model => model.TimeIn, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Checkout, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Checkout, new { htmlAttributes = new { @class = "form-control datetimepicker cout", @id="cout" } })
+                @Html.ValidationMessageFor(model => model.Checkout, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TimeOut, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.TimeOut, new { htmlAttributes = new { @class = "form-control timepicker " } })
+                @Html.ValidationMessageFor(model => model.TimeOut, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.DayStay, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.DayStay, new { htmlAttributes = new { @class = "form-control test" ,@id="test"} })
+                @Html.ValidationMessageFor(model => model.DayStay, "", new { @class = "text-danger" })
+                
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Deposit, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Deposit, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Deposit, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Memo, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Memo, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Memo, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+<script>
+    $(document).ready(function () {
+        $('.datetimepicker').datetimepicker({
+            //format: 'MM/DD/YYYY HH:mm',
+
+            //sideBySide: true
+        });
+    });
+
+</script>
+<script>
+    $(document).ready(function () {
+        $('.timepicker').datetimepicker({
+            format: 'HH:mm'
+
+            //sideBySide: true
+        });
+    });
+
+</script>
+
+<script type="text/javascript" language="javascript">
+    $('.test').click(helloWorl);
+function helloWorl()
+{
+    //document.write(document.getElementsByClassName("cout")+document.getElementsByClassName("cin"));
+    var text1 = document.getElementById('@Html.Id("Checkin")').value;
+    var text2 = document.getElementById('@Html.Id("Checkout")').value;
+    document.getElementById('@Html.Id("DayStay")').value = text1 + text2;
+}
+
+    function total(checkin, checkout)
+{
+
+
+
+    var offset = checkout.getTime() - checkin.getTime(); // lấy độ lệch của 2 mốc thời gian, đơn vị tính là millisecond
+
+    var totalDays = Math.round(offset / 1000 / 60 / 60 / 24);
+
+
+    return totalDays;
+}
+
+
+
+document.write("Tổng hai số 9 và 14 là: " + total("03/24/2016", "03/26/2016"));
+
+</script>

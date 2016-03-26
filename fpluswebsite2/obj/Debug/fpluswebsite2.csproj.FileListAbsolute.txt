@@ -1,0 +1,246 @@
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\ApplicationInsights.config
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\csc.exe
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\System.Collections.Immutable.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\vbc.exe
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\VBCSCompiler.exe
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\roslyn\VBCSCompiler.exe.config
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\fpluswebsite2.dll.config
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\fpluswebsite2.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\fpluswebsite2.pdb
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Antlr3.Runtime.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\EntityFramework.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\EntityFramework.SqlServer.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.Web.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.WindowsServer.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.ApplicationInsights.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.Google.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Web.Infrastructure.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Newtonsoft.Json.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Owin.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.Helpers.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.Mvc.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.Optimization.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.Razor.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.WebPages.Deployment.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.WebPages.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.WebPages.Razor.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\WebGrease.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.Web.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AI.WindowsServer.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.ApplicationInsights.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.Helpers.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.Mvc.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.Optimization.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.Razor.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.WebPages.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.WebPages.Deployment.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\System.Web.WebPages.Razor.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Antlr3.Runtime.pdb
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Newtonsoft.Json.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\EntityFramework.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\EntityFramework.SqlServer.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.Google.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Proj\fpluswebsite2\fpluswebsite2\obj\Debug\fpluswebsite2.csprojResolveAssemblyReference.cache
+E:\Proj\fpluswebsite2\fpluswebsite2\obj\Debug\fpluswebsite2.dll
+E:\Proj\fpluswebsite2\fpluswebsite2\obj\Debug\fpluswebsite2.pdb
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\ApplicationInsights.config
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\csc.exe
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\System.Collections.Immutable.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\vbc.exe
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\VBCSCompiler.exe
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\roslyn\VBCSCompiler.exe.config
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\fpluswebsite2.dll.config
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\fpluswebsite2.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\fpluswebsite2.pdb
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Antlr3.Runtime.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\EntityFramework.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\EntityFramework.SqlServer.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.Web.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.WindowsServer.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.ApplicationInsights.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.Google.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Web.Infrastructure.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Newtonsoft.Json.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Owin.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.Helpers.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.Mvc.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.Optimization.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.Razor.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.WebPages.Deployment.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.WebPages.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.WebPages.Razor.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\WebGrease.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.Web.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AI.WindowsServer.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.ApplicationInsights.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.Helpers.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.Mvc.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.Optimization.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.Razor.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.WebPages.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.WebPages.Deployment.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\System.Web.WebPages.Razor.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Antlr3.Runtime.pdb
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Newtonsoft.Json.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\EntityFramework.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\EntityFramework.SqlServer.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.Google.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\obj\Debug\fpluswebsite2.dll
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\obj\Debug\fpluswebsite2.pdb
+E:\Proj\fpluswebsite2 - Copy\fpluswebsite2\obj\Debug\fpluswebsite2.csprojResolveAssemblyReference.cache
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\ApplicationInsights.config
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\csc.exe
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\System.Collections.Immutable.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\vbc.exe
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\VBCSCompiler.exe
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\roslyn\VBCSCompiler.exe.config
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\fpluswebsite2.dll.config
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\fpluswebsite2.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\fpluswebsite2.pdb
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Antlr3.Runtime.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\EntityFramework.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\EntityFramework.SqlServer.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.Web.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.WindowsServer.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.ApplicationInsights.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.Google.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Web.Infrastructure.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Newtonsoft.Json.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Owin.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.Helpers.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.Mvc.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.Optimization.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.Razor.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.WebPages.Deployment.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.WebPages.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.WebPages.Razor.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\WebGrease.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.Web.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AI.WindowsServer.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.ApplicationInsights.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.Helpers.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.Mvc.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.Optimization.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.Razor.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.WebPages.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.WebPages.Deployment.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\System.Web.WebPages.Razor.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Antlr3.Runtime.pdb
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Newtonsoft.Json.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\EntityFramework.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\EntityFramework.SqlServer.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.Google.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\obj\Debug\fpluswebsite2.dll
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\obj\Debug\fpluswebsite2.pdb
+E:\Proj\fpluswebsite2 - Copy ---\fpluswebsite2\obj\Debug\fpluswebsite2.csprojResolveAssemblyReference.cache
